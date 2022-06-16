@@ -1,0 +1,5 @@
+﻿  test.c
+e:\代码\test_6_6_1\test_6_6_1\test.c(124): error C2070: “int (__cdecl *)(int,int)”: 非法的 sizeof 操作数
+e:\代码\test_6_6_1\test_6_6_1\test.c(124): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\代码\test_6_6_1\test_6_6_1\test.c(124): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\代码\test_6_6_1\test_6_6_1\test.c(124): note: 缺失的可变参数 1 为格式字符串“%d”所需
